@@ -4,7 +4,7 @@ Created by **Jung-Jae Yoon**
 
 ## 📌 Overview  
 Welcome to the **Music Jam Super Project**!  
-This repository brings together ideas, inspirations, and resources for creating and exploring music projects.  
+This repository is used to house a collection and make sure this project is done on time!  
 
 ## 🎧 Sources & Inspirations  
 - [YouTube: Video 1](https://www.youtube.com/watch?v=cZzf1FQQFA0)  
